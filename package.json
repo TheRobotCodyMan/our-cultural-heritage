@@ -1,0 +1,11 @@
+{
+  "name": "our-cultural-heritage",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2",
+    "sass": "^1.93.2"
+  }
+}
